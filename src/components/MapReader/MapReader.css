@@ -1,0 +1,8 @@
+.mapReader__container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #dddddd;
+}

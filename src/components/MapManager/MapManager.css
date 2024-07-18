@@ -1,0 +1,16 @@
+.mapManager__container {
+  display: flex;
+  flex-direction: row;
+}
+
+.mapManager__manage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.mapManager__display {
+  flex: 2;
+  display: flex;
+  flex-direction: row;
+}
